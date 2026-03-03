@@ -1,0 +1,24 @@
+{
+  "name": "Charity",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "",
+  "description": "Decentralized Charity Application",
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "hardhat",
+    "dapp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "packages": {},
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
